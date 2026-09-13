@@ -1,556 +1,184 @@
-﻿<h1 align="center">Susmitha Sivakumar</h1>
+<div align="center">
 
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35,48&height=220&section=header&text=SUSMITHA%20SIVAKUMAR&fontSize=42&fontColor=ffffff&animation=twinkle&subtext=Full%20Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast&subtextSize=16&subtextY=75" width="100%" alt="Header Banner" />
 
+  <!-- Animated Bio Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Development+%7C+MERN+%2B+TypeScript;Cloud+%26+DevOps+Engineering+%7C+AWS+%2B+Terraform+%2B+Docker;AI+%26+Computer+Vision+%7C+OCR+%2B+Machine+Learning;Building+DevVerse+-+AI-Powered+Developer+Platform" alt="Typing SVG" />
+  </a>
 
-<p align="center">
+  <br/><br/>
 
-&#x20; <strong>Computer Science & Engineering Student Â· Full-Stack Development Â· Cloud & DevOps</strong>
+  <!-- Quick Social Badges -->
+  <a href="https://www.linkedin.com/in/susmithasivakumar-84b8b0278">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://susmitha-18.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:susmithasivakumar1832006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.hvms.in">
+    <img src="https://img.shields.io/badge/HVMS%20Live-FF6B6B?style=for-the-badge&logo=render&logoColor=white" alt="HVMS Live" />
+  </a>
+  <a href="https://github.com/Susmitha-18">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
 
-</p>
-
-
-
-<p align="center">
-
-&#x20; Building practical software across web applications, cloud infrastructure, deployment workflows and AI-powered solutions.
-
-</p>
-
-
-
-<p align="center">
-
-&#x20; <a href="https://github.com/Susmitha-18">
-
-&#x20;   <img src="https://img.shields.io/badge/GitHub-Susmitha--18-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-
-&#x20; </a>
-
-&#x20; <a href="https://susmitha-18.github.io/portfolio">
-
-&#x20;   <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio">
-
-&#x20; </a>
-
-&#x20; <a href="https://www.hvms.in">
-
-&#x20;   <img src="https://img.shields.io/badge/HVMS-Live%20Project-2E7D32?style=flat&logo=google-chrome&logoColor=white" alt="HVMS">
-
-&#x20; </a>
-
-</p>
-
-
+</div>
 
 ---
 
+### 🙋‍♀️ About Me
 
-
-## About Me
-
-
-
-I'm a Computer Science and Engineering student at Nandha Engineering College, Erode, graduating in 2027.
-
-
-
-I build full-stack applications using JavaScript/TypeScript, React, Node.js, Express.js and MongoDB, while exploring cloud infrastructure and DevOps practices.
-
-
-
-My current focus areas include AWS, infrastructure automation, CI/CD, AI/ML and software architecture.
-
-
-
-I enjoy turning ideas into working applications and learning how software moves from development to deployment.
-
-
+> Driven **Computer Science and Engineering Student** *(Nandha Engineering College, Class of 2027 | CGPA: 8.0/10.0)* with hands-on expertise across **Full-Stack Web Engineering**, **Cloud & DevOps Automation**, and **Artificial Intelligence**. Experienced in building role-based ERP platforms serving 1000+ users, containerized cloud infrastructure, and AI-powered applications.
 
 ---
 
-
-
-## Tech Stack
-
-
-
-### Languages
-
-
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logoColor=white)
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-
-
-
-### Frontend
-
-
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-
-
-### Backend
-
-
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat)
-
-
-
-### Databases
-
-
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white)
-
-![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
-
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-
-
-
-### Cloud & DevOps
-
-
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)
-
-![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=flat&logo=docker&logoColor=white)
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes%20(Basics)-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=flat)
-
-
-
-### Tools
-
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-
-
-
-### CS Fundamentals
-
-
-
-`Data Structures & Algorithms` Â· `OOP` Â· `DBMS` Â· `Operating Systems` Â· `Computer Networks`
-
-
+### 🛠️ Technological Matrix
+
+<div align="center">
+
+#### 💻 Frontend & Desktop Client
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### ⚙️ Backend & Services API
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![Swagger UI](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+#### 🤖 AI, Machine Learning & OCR
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+#### 🗄️ Databases & Cloud Storage
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+#### ☁️ DevOps, Containers & Cloud Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br/>
+
+#### ⚡ Quick Stack View
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=react,electron,ts,js,html,css,tailwind,bootstrap,nodejs,express,php,py,mongodb,sqlite,aws,terraform,docker,kubernetes,nginx,jenkins,githubactions,git,github,postman&perline=12" alt="Skill Icons Matrix" />
+</a>
+
+</div>
 
 ---
 
+### 🚀 Featured & Ongoing Projects
 
-
-## Featured Projects
-
-
-
-### ðŸš› Heavy Vehicle Management System â€” HVMS
-
-
-
-A MERN-based heavy vehicle management platform focused on role-based workflows, operational monitoring and management.
-
-
-
-**Technologies:** MERN Â· MongoDB Atlas Â· REST APIs Â· Render
-
-
-
-**Highlights**
-
-- Role-based authentication
-
-- CRUD operations
-
-- Secure REST APIs
-
-- Responsive dashboards
-
-- Real-time tracking workflows
-
-- Scheduling and management panels
-
-- Deployment on Render
-
-
-
-**Live:** [hvms.in](https://www.hvms.in)
-
-
-
-**Repository:** [Heavy-Vehicle-Management-System](https://github.com/Susmitha-18/Heavy-Vehicle-Management-System)
-
-
+| Project | Domain / Tech Stack | Key Capabilities & Architecture | Status / Links |
+| :--- | :--- | :--- | :---: |
+| **🚀 DevVerse** | **Desktop + Cloud Platform**<br/>`Electron` `React 19` `TypeScript` `TailwindCSS` `Node.js` `Express` `MongoDB` `SQLite` `Simple-Git` | **Cross-platform AI-powered Developer & DevOps Desktop Suite**.<br/>• **WorkHub**: Automatic local project directory scanning, tech stack & health detection.<br/>• **Integrated Git Manager**: Visual commits, branch switching & status tracking.<br/>• **Backend & Security**: Frameless IDE UI, REST API, Swagger specs, JWT & 2FA.<br/>• **Roadmap**: AI DevOps assistant, Docker Control Center, Multi-Cloud deploy hub. | ⚡ *Ongoing Flagship* |
+| **🚛 HVMS System** | **Full Stack MERN**<br/>`React` `Node.js` `Express` `MongoDB Atlas` `Render` | **Heavy Vehicle Management System**.<br/>• Role-based authentication (Workers & Clients).<br/>• Real-time vehicle tracking workflows, CRUD panels, responsive dashboards. | 🌐 [hvms.in](https://www.hvms.in) \| [GitHub](https://github.com/Susmitha-18/Heavy-Vehicle-Management-System) |
+| **✈️ Ultra Travel** | **MERN + AI Chatbot**<br/>`React` `TypeScript` `Node.js` `REST API` `AI Chatbot` | **AI-Powered Travel Platform**.<br/>• Scalable user-centric architecture with integrated AI Chatbot for automated query handling, reducing manual support effort. | 💻 Full-Stack |
+| **🏢 Workspace Booking** | **Cloud & DevOps**<br/>`Terraform` `Jenkins` `GitHub Actions` `AWS EC2` `Docker` `Nginx` | **Automated Infrastructure & Booking Platform**.<br/>• Provisioned AWS EC2 infrastructure using Terraform.<br/>• Automated end-to-end CI/CD delivery pipelines via Jenkins & GitHub Actions with Nginx reverse proxy. | ☁️ DevOps |
+| **👁️ AI Vision & OCR** | **AI / Machine Learning**<br/>`Python` `OpenCV` `Tesseract OCR` `Scikit-Learn` | **Gesture Recognition & Ancient Document Digitization**.<br/>• Real-time Sign Language recognition using ML gesture detection.<br/>• Tesseract OCR pipeline converting ancient Tamil palm-leaf scripts to modern Tamil text. | 🤖 AI / ML |
+| **🏫 Nandha ERP** | **Enterprise Full Stack**<br/>`PHP` `MS SQL` `MERN Stack` | **Role-Based ERP System (Serving 1000+ Users)**.<br/>• Deployed for 5 user groups (Students, Staff, HOD, Admin, Principal).<br/>• MERN analytical dashboards for academic performance visualization. | 🏫 Enterprise |
+| **📱 Venba Farms App** | **Mobile App**<br/>`React Native / Mobile` `MongoDB` `REST API` | **Mobile App & Backend Architecture**.<br/>• Led a 4-member engineering team for API integration, database architecture, and delivery planning for Google Play Store release. | 📱 Mobile |
 
 ---
 
+### 💼 Professional Experience & Internships
 
+#### 📌 Long-Term Engineering Roles & Internships
+- **Full Stack Developer** — *Nandha Institutions ERP* `[2 Years]`
+  - Engineered and deployed a role-based ERP (PHP + MS SQL) serving **1000+ users** across 5 user categories (Students, Staff, HOD, Admin, Principal).
+  - Designed dynamic MERN dashboards with RESTful APIs for real-time academic data visualization and administrative control panels.
 
-### ðŸ¤– DevVerse
+- **Frontend Developer Intern** — *Allstreak*
+  - Engineered TypeScript and React features for real-time applications serving international clients, boosting UI responsiveness by **~30%**.
+  - Collaborated cross-functionally with backend engineering teams on Python and DynamoDB microservices integration.
 
+- **DevOps Intern** — *Presidio, Coimbatore*
+  - Provisioned AWS cloud resources (EC2, S3, VPC, IAM, Security Groups) and automated infrastructure setup using **Terraform**, **Jenkins**, and **GitHub Actions**.
+  - Containerized multi-service applications using **Docker** & **Docker Compose**, configured **Nginx** reverse proxies, and managed MongoDB service networking.
 
-
-A featured project from my development work.
-
-
-
-**Repository:** To be linked when the DevVerse repository is available on this GitHub account.
-
-
-
----
-
-
-
-### â˜ï¸ Workspace Booking System
-
-
-
-A full-stack workspace booking platform combined with infrastructure automation and an end-to-end deployment pipeline.
-
-
-
-**Technologies:** Terraform Â· Jenkins Â· GitHub Actions Â· AWS EC2 Â· Docker Â· Nginx Â· MongoDB
-
-
-
-**Highlights**
-
-- Authentication
-
-- Workspace scheduling
-
-- Real-time availability
-
-- Terraform-based infrastructure
-
-- AWS EC2 deployment
-
-- Dockerized environment
-
-- Nginx reverse proxy
-
-- Jenkins and GitHub Actions CI/CD
-
-- DEV â†’ PROD deployment pipeline
-
-
+#### ⚡ Short-Term Internships & Specialized Training
+- 🤖 **AI & ML Intern** — *Shellkode, Coimbatore* `[15 Days]`
+  - Built an automated OCR pipeline to extract and transcribe ancient Tamil palm-leaf scripts using Tesseract OCR and Machine Learning text processing.
+- ⚙️ **Developer Intern** — *SkillVertex* `[3 Months: 2 Months Training + 1 Month Internship]`
+  - Developed backend application logic, database schemas, and debugged real-time production issues.
+- 🔒 **Security & Application Intern** — *Levroun* `[15 Days]`
+  - Built a credential management password application and gained hands-on experience in secure software development lifecycles.
 
 ---
 
+### 🏆 Problem Solving & Certifications
 
+<div align="center">
 
-### âœˆï¸ Ultra Travel â€” AI-Powered Travel Platform
+![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-50%2B_Challenges-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)
 
+</div>
 
-
-A full-stack travel platform built with MERN and TypeScript, combining web application functionality with an AI chatbot.
-
-
-
-**Technologies:** MERN Â· TypeScript Â· REST APIs Â· Database Integration
-
-
-
-**Highlights**
-
-- Full-stack travel platform
-
-- Frontend UI
-
-- REST APIs
-
-- Database integration
-
-- AI chatbot
-
-- User-centric application architecture
-
-
+- **Snowflake Data Warehouse Badge 1** — Snowflake
+- **MongoDB Developer Certification** — MongoDB
+- **AWS Educate Badge**: Getting Started with Storage
+- **AWS Educate Badge**: Introduction to Cloud 101
+- **Cloud Computing Certification**
+- **Privacy & Security in Online Social Media Certification**
 
 ---
 
+### 👾 Neural Grid Active Matrix (GitHub Metrics & Activity)
 
+<div align="center">
 
-### ðŸ‘ï¸ AI-Based Vision & OCR
+  <!-- Snake Contribution Graph -->
+  <h4>🐍 Contribution Snake</h4>
+  <img src="https://raw.githubusercontent.com/Susmitha-18/Susmitha-18/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 
+  <br/><br/>
 
+  <!-- Stats Cards Grid -->
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Susmitha-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Susmitha's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susmitha-18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
-Exploring practical applications of Machine Learning and Computer Vision.
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Susmitha-18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-
-
-**Projects**
-
-- Real-time sign language recognition using Machine Learning and Computer Vision
-
-- OCR using Tesseract to convert ancient Tamil palm-leaf script into modern Tamil
-
-
-
----
-
-
-
-### ðŸ“± Venba Farms Mobile Application
-
-
-
-A team-based mobile application project focused on API integration, database architecture and delivery planning.
-
-
-
-**Highlights**
-
-- Team Guide for a 4-member team
-
-- API integration
-
-- MongoDB architecture
-
-- Technical decision-making
-
-- Delivery planning for Google Play Store release
-
-
+</div>
 
 ---
 
-
-
-## Cloud & DevOps
-
-
-
-My cloud and DevOps work focuses on understanding how applications are provisioned, containerized, deployed and moved through delivery environments.
-
-
-
-| Area | Technologies |
-
-|---|---|
-
-| Cloud | AWS EC2, S3, VPC, IAM, Security Groups, Load Balancers, Lambda |
-
-| Infrastructure | Terraform |
-
-| Containers | Docker, Docker Compose, Docker Hub |
-
-| CI/CD | Jenkins, GitHub Actions, CI/CD |
-
-| Web Infrastructure | Nginx, Apache |
-
-| Systems | Linux, SSH, Shell Scripting |
-
-| Containerization | Container Networking, Environment Configuration |
-
-| Orchestration | Kubernetes â€” Basics |
-
-| Operations | Deployment Troubleshooting, System Diagnostics, Root Cause Analysis, DEV/PROD Management |
-
-
-
----
-
-
-
-## AI / Computer Vision
-
-
-
-- **Sign Language Recognition** â€” Real-time gesture detection using Machine Learning and Computer Vision
-
-- **Tamil OCR** â€” Tesseract-based OCR for ancient Tamil palm-leaf script
-
-- **Ultra Travel** â€” AI chatbot integrated for automated query handling
-
-
-
----
-
-
-
-## Problem Solving
-
-
-
-<p align="center">
-
-&#x20; <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=flat&logo=leetcode&logoColor=white" alt="100+ LeetCode">
-
-&#x20; <img src="https://img.shields.io/badge/HackerRank-50%2B%20Challenges-00EA64?style=flat&logo=hackerrank&logoColor=black" alt="50+ HackerRank">
-
-</p>
-
-
-
-Consistent practice in Data Structures & Algorithms through competitive programming platforms.
-
-
-
----
-
-
-
-## Certifications
-
-
-
-- Snowflake Data Warehouse Badge 1
-
-- MongoDB Certification
-
-- AWS Educate â€” Getting Started with Storage
-
-- AWS Educate â€” Introduction to Cloud 101
-
-- Cloud Computing Certification
-
-- Privacy & Security in Online Social Media Certification
-
-
-
----
-
-
-
-## Currently Learning
-
-
-
-- AWS Certified Cloud Practitioner â€” CLF-C02
-
-- AWS Certified Solutions Architect â€” Associate â€” SAA-C03
-
-
-
----
-
-
-
-## Interests
-
-
-
-`Artificial Intelligence & Machine Learning` Â·
-
-`Cloud & DevOps` Â·
-
-`Data Engineering` Â·
-
-`Software Architecture` Â·
-
-`Automotive Technologies` Â·
-
-`AWS Solutions Architecture`
-
-
-
----
-
-
-
-## GitHub Statistics
-
-
-
-<p align="center">
-
-&#x20; <img src="https://github-readme-stats.vercel.app/api?username=Susmitha-18&show_icons=true&hide_rank=true&hide_border=true&theme=transparent" height="165" alt="GitHub Statistics">
-
-&#x20; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susmitha-18&layout=compact&langs_count=6&hide_border=true&theme=transparent" height="165" alt="Top Languages">
-
-</p>
-
-
-
----
-
-
-
-## Connect
-
-
-
-<p align="center">
-
-&#x20; <a href="https://github.com/Susmitha-18">GitHub</a>
-
-&#x20; Â·
-
-&#x20; <a href="https://www.linkedin.com/in/susmithasivakumar-84b8b027">LinkedIn</a>
-
-&#x20; Â·
-
-&#x20; <a href="https://susmitha-18.github.io/portfolio">Portfolio</a>
-
-&#x20; Â·
-
-&#x20; <a href="https://www.hvms.in">HVMS</a>
-
-</p>
-
-
-
-<p align="center">
-
-&#x20; <sub>Building, learning and improving â€” one project at a time.</sub>
-
-</p>
-
-
-
+<div align="center">
+  <sub>Designed & Developed with ❤️ by <b>Susmitha Sivakumar</b></sub>
+</div>
