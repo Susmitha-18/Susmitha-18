@@ -155,22 +155,31 @@
 
 <div align="center">
 
-  <h4>📊 GitHub Activity Graph</h4>
+  <h4>🗓️ Year Contribution Heatmap</h4>
   <a href="https://github.com/Susmitha-18">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Susmitha-18&theme=tokyo-night&hide_border=true" width="100%" alt="Susmitha's Activity Graph" />
+    <img src="https://ghchart.rshah.org/409eff/Susmitha-18" alt="Susmitha's Contribution Heatmap" width="100%" />
+  </a>
+
+  <br/><br/>
+
+  <h4>📊 GitHub Summary & Activity Cards</h4>
+  <a href="https://github.com/Susmitha-18">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Susmitha-18&theme=dracula" width="100%" alt="Susmitha's Profile Summary" />
   </a>
 
   <br/><br/>
 
   <p align="center">
     <a href="https://github.com/Susmitha-18">
-      <img src="https://github-readme-stats.vercel.app/api?username=Susmitha-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Susmitha's GitHub Stats" height="170" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Susmitha-18&theme=dracula" alt="Susmitha's Stats" />
     </a>
     &nbsp;
     <a href="https://github.com/Susmitha-18">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susmitha-18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Susmitha-18&theme=dracula" alt="Top Languages" />
     </a>
   </p>
+
+  <br/>
 
   <a href="https://github.com/Susmitha-18">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Susmitha-18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
