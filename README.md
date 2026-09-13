@@ -155,6 +155,11 @@
 
 <div align="center">
 
+  <h4>🐍 Contribution Snake</h4>
+  <img src="https://raw.githubusercontent.com/Susmitha-18/Susmitha-18/output/github-contribution-grid-snake-dark.svg" alt="Susmitha's Contribution Snake Animation" width="100%" />
+
+  <br/><br/>
+
   <h4>🗓️ Year Contribution Heatmap</h4>
   <a href="https://github.com/Susmitha-18">
     <img src="https://ghchart.rshah.org/409eff/Susmitha-18" alt="Susmitha's Contribution Heatmap" width="100%" />
@@ -162,27 +167,9 @@
 
   <br/><br/>
 
-  <h4>📊 GitHub Summary & Activity Cards</h4>
+  <h4>🔥 GitHub Streak Stats</h4>
   <a href="https://github.com/Susmitha-18">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Susmitha-18&theme=dracula" width="100%" alt="Susmitha's Profile Summary" />
-  </a>
-
-  <br/><br/>
-
-  <p align="center">
-    <a href="https://github.com/Susmitha-18">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Susmitha-18&theme=dracula" alt="Susmitha's Stats" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/Susmitha-18">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Susmitha-18&theme=dracula" alt="Top Languages" />
-    </a>
-  </p>
-
-  <br/>
-
-  <a href="https://github.com/Susmitha-18">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Susmitha-18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Susmitha-18&theme=tokyonight&hide_border=true" alt="Susmitha's GitHub Streak" />
   </a>
 
 </div>
