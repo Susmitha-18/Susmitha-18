@@ -86,7 +86,7 @@
 <br/>
 
 #### ⚡ Quick Stack View
-<a href="#">
+<a href="https://github.com/Susmitha-18">
   <img src="https://skillicons.dev/icons?i=react,electron,ts,js,html,css,tailwind,bootstrap,nodejs,express,php,py,mongodb,sqlite,aws,terraform,docker,kubernetes,nginx,jenkins,githubactions,git,github,postman&perline=12" alt="Skill Icons Matrix" />
 </a>
 
@@ -155,25 +155,26 @@
 
 <div align="center">
 
-  <!-- Snake Contribution Graph -->
-  <h4>🐍 Contribution Snake</h4>
-  <img src="https://raw.githubusercontent.com/Susmitha-18/Susmitha-18/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <h4>📊 GitHub Activity Graph</h4>
+  <a href="https://github.com/Susmitha-18">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Susmitha-18&theme=tokyo-night&hide_border=true" width="100%" alt="Susmitha's Activity Graph" />
+  </a>
 
   <br/><br/>
 
-  <!-- Stats Cards Grid -->
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Susmitha-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Susmitha's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susmitha-18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <a href="https://github.com/Susmitha-18">
+      <img src="https://github-readme-stats.vercel.app/api?username=Susmitha-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Susmitha's GitHub Stats" height="170" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Susmitha-18">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susmitha-18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+    </a>
+  </p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Susmitha-18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/Susmitha-18">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Susmitha-18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 
 </div>
 
