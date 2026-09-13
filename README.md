@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35,48&height=220&section=header&text=SUSMITHA%20SIVAKUMAR&fontSize=42&fontColor=ffffff&animation=twinkle&subtext=Full%20Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast&subtextSize=16&subtextY=75" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35,48&height=220&section=header&text=SUSMITHA%20SIVAKUMAR&fontSize=42&fontColor=ffffff&animation=twinkle&subtext=ERP%20Software%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20DevOps%20%7C%20AI&subtextSize=15&subtextY=75" width="100%" alt="Header Banner" />
 
   <!-- Animated Bio Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Development+%7C+MERN+%2B+TypeScript;Cloud+%26+DevOps+Engineering+%7C+AWS+%2B+Terraform+%2B+Docker;AI+%26+Computer+Vision+%7C+OCR+%2B+Machine+Learning;Building+DevVerse+-+AI-Powered+Developer+Platform" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=ERP+Software+Developer;Full+Stack+Developer;Cloud+Enthusiast;DevOps+Engineer;AI+Enthusiast" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -33,7 +33,12 @@
 
 ### 🙋‍♀️ About Me
 
-> Driven **Computer Science and Engineering Student** *(Nandha Engineering College, Class of 2027 | CGPA: 8.0/10.0)* with hands-on expertise across **Full-Stack Web Engineering**, **Cloud & DevOps Automation**, and **Artificial Intelligence**. Experienced in building role-based ERP platforms serving 1000+ users, containerized cloud infrastructure, and AI-powered applications.
+I am a final-year **Computer Science and Engineering student** with hands-on experience in **Full Stack Development**, **DevOps**, **AWS & Cloud Technologies**, and software engineering through internships, industry projects, and real-world applications.
+
+- 🏫 **Enterprise Experience**: Worked on a live **ERP platform serving 1000+ active users**, streamlining academic workflows and digital record management.
+- 🌐 **Global Collaboration**: Collaborated with **international clients** on real-time web applications, improving UI responsiveness by ~30%.
+- ☁️ **Cloud & Infrastructure**: Gained practical exposure across development, containerized deployment, and automated cloud environments using **AWS, Terraform, Docker, and CI/CD pipelines**.
+- 💡 **Philosophy & Ownership**: Driven by the firm belief that **the best way to learn is by building**. I continuously seek opportunities to take on new challenges, collaborate effectively, and create tangible value through software engineering.
 
 ---
 
