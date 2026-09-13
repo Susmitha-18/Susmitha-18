@@ -1,5 +1,3 @@
-```markdown
-
 <h1 align="center">Susmitha Sivakumar</h1>
 
 
@@ -120,7 +118,7 @@ I enjoy turning ideas into working applications and learning how software moves 
 
 !\[PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
 
-!\[REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat)
+!\[REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat)
 
 
 
@@ -154,11 +152,15 @@ I enjoy turning ideas into working applications and learning how software moves 
 
 !\[Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat\&logo=docker\&logoColor=white)
 
+!\[Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=flat\&logo=docker\&logoColor=white)
+
 !\[Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat\&logo=jenkins\&logoColor=white)
 
 !\[GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)
 
 !\[Nginx](https://img.shields.io/badge/Nginx-009639?style=flat\&logo=nginx\&logoColor=white)
+
+!\[Apache](https://img.shields.io/badge/Apache-D22128?style=flat\&logo=apache\&logoColor=white)
 
 !\[Kubernetes](https://img.shields.io/badge/Kubernetes%20(Basics)-326CE5?style=flat\&logo=kubernetes\&logoColor=white)
 
@@ -200,7 +202,7 @@ I enjoy turning ideas into working applications and learning how software moves 
 
 
 
-A deployed MERN-based heavy vehicle management platform focused on role-based workflows, operational monitoring and management.
+A MERN-based heavy vehicle management platform focused on role-based workflows, operational monitoring and management.
 
 
 
@@ -222,7 +224,7 @@ A deployed MERN-based heavy vehicle management platform focused on role-based wo
 
 \- Scheduling and management panels
 
-\- Deployed application
+\- Deployment on Render
 
 
 
@@ -242,15 +244,11 @@ A deployed MERN-based heavy vehicle management platform focused on role-based wo
 
 
 
-An AI-focused project included among my featured project areas.
+A featured project from my development work.
 
 
 
-> The repository and implementation details are intentionally not described here until a `DevVerse` repository owned by `Susmitha-18` is available for verification.
-
-
-
-\*\*Repository:\*\* To be added when the project repository is publicly available on this GitHub account.
+\*\*Repository:\*\* To be linked when the DevVerse repository is available on this GitHub account.
 
 
 
@@ -300,7 +298,7 @@ A full-stack workspace booking platform combined with infrastructure automation 
 
 
 
-A full-stack travel platform built with a MERN + TypeScript stack, combining web application functionality with an AI chatbot.
+A full-stack travel platform built with MERN and TypeScript, combining web application functionality with an AI chatbot.
 
 
 
@@ -398,9 +396,11 @@ My cloud and DevOps work focuses on understanding how applications are provision
 
 | Systems | Linux, SSH, Shell Scripting |
 
+| Containerization | Container Networking, Environment Configuration |
+
 | Orchestration | Kubernetes — Basics |
 
-| Operations | Deployment Troubleshooting, System Diagnostics, Root Cause Analysis |
+| Operations | Deployment Troubleshooting, System Diagnostics, Root Cause Analysis, DEV/PROD Management |
 
 
 
@@ -416,7 +416,7 @@ My cloud and DevOps work focuses on understanding how applications are provision
 
 \- \*\*Tamil OCR\*\* — Tesseract-based OCR for ancient Tamil palm-leaf script
 
-\- \*\*Ultra Travel\*\* — Integrated AI chatbot for automated query handling
+\- \*\*Ultra Travel\*\* — AI chatbot integrated for automated query handling
 
 
 
@@ -438,7 +438,7 @@ My cloud and DevOps work focuses on understanding how applications are provision
 
 
 
-Consistently practicing Data Structures \& Algorithms through competitive programming platforms.
+Consistent practice in Data Structures \& Algorithms through competitive programming platforms.
 
 
 
@@ -510,25 +510,9 @@ Consistently practicing Data Structures \& Algorithms through competitive progra
 
 <p align="center">
 
-&#x20; <img src="./profile/stats.svg" height="165" alt="GitHub statistics">
+&#x20; <img src="https://github-readme-stats.vercel.app/api?username=Susmitha-18\&show\_icons=true\&hide\_rank=true\&hide\_border=true\&theme=transparent" height="165" alt="GitHub Statistics">
 
-&#x20; <img src="./profile/top-langs.svg" height="165" alt="Top languages">
-
-</p>
-
-
-
-\---
-
-
-
-\## Contributions
-
-
-
-<p align="center">
-
-&#x20; <img src="https://raw.githubusercontent.com/Susmitha-18/Susmitha-18/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph">
+&#x20; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susmitha-18\&layout=compact\&langs\_count=6\&hide\_border=true\&theme=transparent" height="165" alt="Top Languages">
 
 </p>
 
@@ -567,8 +551,4 @@ Consistently practicing Data Structures \& Algorithms through competitive progra
 &#x20; <sub>Building, learning and improving — one project at a time.</sub>
 
 </p>
-
-```
-
-
 
